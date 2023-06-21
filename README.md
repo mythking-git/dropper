@@ -17,3 +17,14 @@ Kimura - Back Street Girls ~GOKUDOLS-  - Edition: 53663
 ```
 
 ![image](https://github.com/mythking-git/dropper/assets/70135452/48b4b136-46e4-4845-a04b-ef684a303480)
+
+## WIP - KLU reader to commit to database
+
+![image](https://github.com/mythking-git/dropper/assets/70135452/7e57812f-52f8-4bc7-8a34-9f7696ba35cb)
+
+```
+Dropper - BOT
+Character · Gojo Satoru
+Series · Jujutsu Kaisen
+Wishlists · 14,773
+```
